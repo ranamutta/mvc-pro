@@ -1,0 +1,88 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "user": "Ayşe",
+      "title": "Redux Kullanımı",
+      "text": "Redux ile global state yönetimi nasıl yapılır?",
+      "date": "2023-09-12T10:45:00.000Z"
+    },
+    {
+      "id": "3",
+      "user": "Ali",
+      "title": "React Hooks Kullanımı",
+      "text": "React Hooks ile state ve lifecycle yönetimi",
+      "date": "2023-09-13T15:30:00.000Z"
+    },
+    {
+      "id": "4",
+      "user": "Fatma",
+      "title": "React Router Kullanımı",
+      "text": "React Router ile sayfa yönlendirmesi nasıl yapılır?",
+      "date": "2023-09-14T09:20:00.000Z"
+    },
+    {
+      "id": "5",
+      "user": "Selma",
+      "title": "React Native ile Mobil Uygulama Geliştirme",
+      "text": "React Native kullanarak nasıl mobil uygulama geliştirilir?",
+      "date": "2023-09-15T17:10:00.000Z"
+    },
+    {
+      "id": "6",
+      "user": "Zeynep",
+      "title": "React Testing Library Kullanımı",
+      "text": "React bileşenlerini test etmek için React Testing Library",
+      "date": "2023-09-16T11:55:00.000Z"
+    },
+    {
+      "id": "7",
+      "user": "Cem",
+      "title": "React Context API Kullanımı",
+      "text": "React Context API ile global state yönetimi",
+      "date": "2023-09-17T14:40:00.000Z"
+    },
+    {
+      "id": "8",
+      "user": "Cem",
+      "title": "React Material-UI Kullanımı",
+      "text": "Material-UI ile React bileşenleri tasarlama",
+      "date": "2023-09-18T08:25:00.000Z"
+    },
+    {
+      "id": "9",
+      "user": "Mert",
+      "title": "React Router ile Dinamik Yönlendirme",
+      "text": "React Router ile dinamik olarak sayfa yönlendirme",
+      "date": "2023-09-19T13:15:00.000Z"
+    },
+    {
+      "id": "10",
+      "user": "Selma",
+      "title": "React ile API Entegrasyonu",
+      "text": "React uygulamalarında API'lerle nasıl iletişim kurulur?",
+      "date": "2023-09-20T16:05:00.000Z"
+    },
+    {
+      "id": "11",
+      "user": "Can",
+      "title": "React ve TypeScript Entegrasyonu",
+      "text": "TypeScript ile React projelerinde tip güvenliği",
+      "date": "2023-09-21T10:00:00.000Z"
+    },
+    {
+      "id": "b6ec5797-15e3-4f6c-8bad-511c98e2b61e",
+      "date": "2024-02-16T14:15:50.424Z",
+      "user": "fdfd",
+      "title": "fdafa",
+      "text": "fdafda"
+    },
+    {
+      "id": "9ce2adf7-e30c-4485-84a5-780e2465f70f",
+      "date": "2024-02-16T14:16:50.680Z",
+      "user": "ayşe",
+      "title": "mvc",
+      "text": "mvc yapısı nedir"
+    }
+  ]
+}
